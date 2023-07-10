@@ -2,7 +2,7 @@
 
 A motivated AI enthusiast who enjoys building models that translate data points into business insights thanks to strong analytical skills.
 
-👨‍💻 Data Scientist Intern @danone.
+👨‍💻 Data Scientist Intern @Danone Global Research & Innovation Center.
 
 💻 Big Data & Artificial Intelligence master's student @Université Paris Dauphine - PSL.
 
