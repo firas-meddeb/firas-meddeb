@@ -4,7 +4,7 @@ AI enthusiast with strong analytical skills.
 
 👨‍💻 Data Scientist.
 
-💻 Big Data & Artificial Intelligence master's student @Université Paris Dauphine - PSL.
+💻 Holder of Big Data & Artificial Intelligence master's degree from @Université Paris Dauphine - PSL.
 
 👀 Open for new opportunities in Data Science/Engineering.
 
