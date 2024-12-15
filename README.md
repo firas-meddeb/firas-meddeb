@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-AI enthusiast.
+AI and data enthusiast.
 
 👨‍💻 Data Scientist.
 
-💻 Holder of Big Data & Artificial Intelligence master's degree from @Université Paris Dauphine - PSL.
+💻 Holder of a Big Data & Artificial Intelligence master's degree from @Université Paris Dauphine - PSL.
 
-Email: firas.meddeb@dauphine.eu
+Email: firas.meddeb@outlook.com
 
 Linkedin: [/firasmeddeb](https://www.linkedin.com/in/firasmeddeb/)
